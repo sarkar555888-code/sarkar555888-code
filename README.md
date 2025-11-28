@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Niloy Chandra Sarkar
+## Hi 👋 I'm Niloy Chandra Sarkar
 
 # 💫 About Me:
 I'm currently working on Web Development<br>I'm currently learning Javascript
