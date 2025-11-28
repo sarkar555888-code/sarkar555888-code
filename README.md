@@ -1,4 +1,4 @@
-#                                             Hi 👋 I'm Niloy Chandra Sarkar
+ <h1 text-align = center >Hi 👋 I'm Niloy Chandra Sarkar</h1>                                            
 
 ## 💫 About Me:   
 I'm currently working on Web Development<br>
