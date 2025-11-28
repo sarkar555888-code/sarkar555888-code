@@ -1,6 +1,8 @@
-                                             # Hi 👋 I'm Niloy Chandra Sarkar
+                                             ## Hi 👋 I'm Niloy Chandra Sarkar
 
-## 💫 About Me:     I'm currently working on Web Development<br>I'm currently learning Javascript
+## 💫 About Me:   
+I'm currently working on Web Development<br>
+I'm currently learning Javascript
 
 
 ## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarkar555888@gmail.com) 
